@@ -1,0 +1,13 @@
+.usuarios-page-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .usuarios-form-container {
+    width: 33.33%;
+  }
+  
+  .usuarios-list-container {
+    width: 66.66%;
+  }
+  
